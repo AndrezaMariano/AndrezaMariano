@@ -14,3 +14,9 @@ Estou entusiasmada para fazer parte de uma comunidade colaborativa e criar desig
 <div>
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Andreza&show_icons=true&theme=midnight-purple">
 </div>
+
+<div> 
+  <a href="https://instagram.com/drez_mariano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andrezafreitas456mariano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andreza-mariano-298a26231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
