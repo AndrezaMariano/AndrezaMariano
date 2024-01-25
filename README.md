@@ -12,5 +12,5 @@ Acredito que a melhor maneira de aprender é compartilhando conhecimento. Além 
 Estou entusiasmada para fazer parte de uma comunidade colaborativa e criar designs que não apenas agradem esteticamente, mas também promovam inclusão e usabilidade. Vamos criar juntos!
 
 <div>
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Andreza&show_icons=true&theme=date_night">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Andreza&show_icons=true&theme=midnight-purple">
 </div>
